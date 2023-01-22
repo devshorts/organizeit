@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6335e229-4cce-499d-bf54-5366866811d0"
+      }
+    },
+    "owner": "akropp"
   }
 }
